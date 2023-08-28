@@ -1,5 +1,5 @@
 # React + Vite + MaterialUI
 
-Aplicación la cual hace una peticion a la api de weatherapi.com para solicitar el tiempo
+Aplicación la cual hace una petición a la api de https://www.weatherapi.com/para solicitar el tiempo
 
 # WeatherApp
